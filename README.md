@@ -1,0 +1,1 @@
+This repository is for exercises and work related to MongoDB.
